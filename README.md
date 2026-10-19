@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Dylan%20Hoover&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineer%20%40%20Sprout%20Social&descAlignY=54&descSize=18&animation=fadeIn" alt="Dylan Hoover — Software Engineer @ Sprout Social" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Dylan%20Hoover&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Software%20Engineer%20%40%20Sprout%20Social&descAlignY=54&descSize=18&animation=fadeIn" alt="Dylan Hoover — Software Engineer @ Letter AI" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=70A5FD&center=true&vCenter=true&width=640&height=45&lines=Java+at+work%2C+TypeScript+after+hours;Python%2C+Rust%2C+and+whatever+the+side+project+needs;Still+shipping+on+nights+and+weekends" />
@@ -20,7 +20,7 @@
 
 ## Hey there 👋
 
-I'm a software engineer at **Sprout Social**, where most of my commits are Java. After hours
+I'm a software engineer at **Letter AI**, where most of my commits are TypeScript. After hours
 it's mostly TypeScript — a storefront, a fantasy football tool — plus a Rust service quietly
 talking to the sensors in my house.
 
